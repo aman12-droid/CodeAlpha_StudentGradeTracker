@@ -1,0 +1,15 @@
+101|Standard|1500.0
+102|Standard|1500.0
+103|Standard|1500.0
+104|Standard|1500.0
+105|Standard|1500.0
+201|Deluxe|2500.0
+202|Deluxe|2500.0
+203|Deluxe|2500.0
+204|Deluxe|2500.0
+205|Deluxe|2500.0
+301|Suite|4000.0
+302|Suite|4000.0
+303|Suite|4000.0
+304|Suite|4000.0
+305|Suite|4000.0
